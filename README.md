@@ -8,6 +8,9 @@ In this project, let's build a **Prime Video**.
     <source src="https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4" type="video/mp4">
     
   </video>
+  <div>
+  <a>[Video link](https://assets.ccbp.in/frontend/content/react-js/prime-video-output.mp4)</a>
+  </div>
 </div>
 <br/>
 
